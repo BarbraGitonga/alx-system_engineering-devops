@@ -1,2 +1,2 @@
 #!/bin/bash
-GNU ls -m
+ls -apm | sort -d
