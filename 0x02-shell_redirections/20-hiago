@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i 'c' -type d -delete
+grep -i 'c' -delete
