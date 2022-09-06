@@ -1,2 +1,2 @@
 #!/bin/bash
-echo base64 -e 
+tr [A-Za-z] [N-ZA-Mn-za-m]
